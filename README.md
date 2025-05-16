@@ -147,3 +147,29 @@ Whether you're just starting out or managing multiple channels, NexLev offers a 
 Plus, with one-time pricing options, value-packed bundles, and even free resources, NexLev makes professional-grade tools accessible — no bloated subscriptions or unnecessary fluff.
 
 👉 If you're looking to save time, grow smarter, and scale faster — NexLev is not just worth it. It's essential.
+
+## NexLev Pros and Cons
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr>
+    <th>Pros</th>
+    <th>Cons</th>
+  </tr>
+  <tr>
+    <td>
+      ✔️ One-time payment options available<br>
+      ✔️ Tools tailored for faceless YouTube creators<br>
+      ✔️ Accurate niche & channel analysis features<br>
+      ✔️ Chrome Extension and Analytics in a budget-friendly bundle<br>
+      ✔️ Access to 200+ freelancer portfolios for free<br>
+      ✔️ Beginner-friendly course with actionable insights
+    </td>
+    <td>
+      ❌ No monthly payment option for main tools (course & niche finder)<br>
+      ❌ Limited support for creators on non-YouTube platforms<br>
+      ❌ Currently no free trial for premium tools<br>
+      ❌ Might be overwhelming for total beginners without prior YouTube experience
+    </td>
+  </tr>
+</table>
+
