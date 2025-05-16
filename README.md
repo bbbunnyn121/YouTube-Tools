@@ -20,3 +20,6 @@ Go to [NexLev's](https://amitsurti.com/nexlev) official website.
 Select the plan that suits your needs.
 
 Apply the promo code “AMIT20” at checkout to get 20% off.
+
+Without Niche Finder:
+![Image](https://github.com/user-attachments/assets/e0819823-80c4-4f2d-a33b-8435ded74615)
