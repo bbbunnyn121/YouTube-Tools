@@ -28,3 +28,7 @@ Apply the promo code “AMIT20” at checkout to get 20% off.
 **With Niche Finder**
 
 ![Image](https://github.com/user-attachments/assets/3d646c50-0756-419f-9cc7-2a08ac06870b)
+
+**NexLev Chrome Extension**
+
+![Image](https://github.com/user-attachments/assets/c7c70a9a-aebd-4566-8bb4-3814a6dcb0e8)
