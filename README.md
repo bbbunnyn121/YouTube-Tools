@@ -15,4 +15,8 @@ Use promo code “AMIT20” at checkout to get an instant 20% off your subscript
 [![Image](https://github.com/user-attachments/assets/5b70c831-c80a-403d-a836-0f7bb3da8581)](https://www.w3toys.com/blog/deals/nexlev-promo-code/)
 
 ## How To Claim NexLev Discount Deals (Step-By-Step)
+Go to [NexLev's](https://amitsurti.com/nexlev) official website.
 
+Select the plan that suits your needs.
+
+Apply the promo code “AMIT20” at checkout to get 20% off.
