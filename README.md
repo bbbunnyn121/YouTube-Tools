@@ -24,3 +24,7 @@ Apply the promo code “AMIT20” at checkout to get 20% off.
 **Without Niche Finder**
 
 ![Image](https://github.com/user-attachments/assets/e0819823-80c4-4f2d-a33b-8435ded74615)
+
+**With Niche Finder**
+
+![Image](https://github.com/user-attachments/assets/3d646c50-0756-419f-9cc7-2a08ac06870b)
