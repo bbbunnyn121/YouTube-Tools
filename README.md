@@ -4,3 +4,8 @@ Maximize your YouTube growth in 2025 with NexLev’s exclusive discounts! Save 2
 [![Image](https://github.com/user-attachments/assets/851abe19-6cc1-43a7-9b72-f13b1f5fea17)](https://www.w3toys.com/blog/deals/nexlev-promo-code/)
 
 [![Image](https://github.com/user-attachments/assets/5b70c831-c80a-403d-a836-0f7bb3da8581)](https://www.w3toys.com/blog/deals/nexlev-promo-code/)
+
+## Available NexLev Discount 2025 (May Offer)
+Unlock Your NexLev Savings
+Take your content creation to the next level with NexLev — and enjoy big savings!
+Use promo code “AMIT20” at checkout to get an instant 20% off your subscription.
